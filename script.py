@@ -1,9 +1,3 @@
-# Group ID: 10
-# Group members: Ran Cui     u5757796
-#                Haotian Xue u5689296
-#                Chen Li     u5691997
-#                Jun Zhao    u5275033
-# 
 # This is the script for walking through the whole project.
 #
 # To run the script, you need to modify the paths in the main function, since the paths are encoded for working on
